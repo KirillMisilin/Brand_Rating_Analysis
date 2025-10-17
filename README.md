@@ -3,4 +3,5 @@
 Примеры запуска скрипта с 2 и 1 файлом для анализа соответственно
 <img width="1516" height="283" alt="Снимок экрана (3003)" src="https://github.com/user-attachments/assets/3ed1e115-b8fc-46a7-af6c-b7cc118e4818" />
 
-<img width="1516" height="283" alt="Снимок экрана (3003)" src="https://github.com/user-attachments/assets/dc0628af-9dcd-40cc-a764-2ad578c12cd4" />
+<img width="1348" height="258" alt="Снимок экрана (3004)" src="https://github.com/user-attachments/assets/fda28e2d-540e-4b90-a4ee-e4f4702568b1" />
+
